@@ -51,7 +51,7 @@ Lo que hay que hacer para evitar abrir un parripollo
 * [Riesgo: el concepto inexistenet](#)
 
 
-## Carencia de análisis y rigor metodológico
+## Gestion del tiempo
 
 * [Forzar soluciones](#)
 * [Desperdicio de tiempo](#)

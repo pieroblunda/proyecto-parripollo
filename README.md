@@ -56,7 +56,7 @@ Lo que hay que hacer para evitar abrir un parripollo
 * [Forzar soluciones](#)
 * [Desperdicio de tiempo](#)
 * [Anticiparse a la solucion](#)
-
+* [Interrupcion de tareas](#)
 
 ## Fragmentación por roles y pérdida de visión sistémica del problema real
 

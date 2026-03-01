@@ -31,6 +31,7 @@ Lo que hay que hacer para evitar abrir un parripollo
 ## Others Skills
 
 * [Sin foco en el usuario](#)
+* [Sensibilidad por los requeriemientos no funcionales](#)
 
 
 ## Comercializacion - ventas

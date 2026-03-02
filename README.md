@@ -72,3 +72,7 @@ Lo que hay que hacer para evitar abrir un parripollo
 * [Comunicacion II](#)
 * [Conocimientos debiles sobre Design patterns](#)
 * [Nivelacion de equipos](#)
+
+## Bibliography
+
+* [Leer](#)

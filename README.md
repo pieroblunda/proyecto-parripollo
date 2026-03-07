@@ -19,6 +19,7 @@ El resultado tiene que ser:
 * Tiene que ser funcional tanto a los programadores como a vendedores y gerentes
 * Objetivo (no tiene que dar lugar a dobles interpretaciones)
 * Medible (KPIs claros)
+* Compatible con usos, costumbres y tecnologias de 2026 (Smartworking, IA, globalizacion, burbujas financiarias)
 
 ## List of contents
 

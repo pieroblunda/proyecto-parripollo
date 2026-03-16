@@ -2,6 +2,25 @@
 
 Lo que hay que hacer para evitar abrir un parripollo
 
+## Resultado
+
+El resultado de este proyecto seran `un libro` donde explora el proceso y justifica las elecciones; y `una guia de implementacion` que sirve como guia de lectura rapida y consulta de la metodologia.
+
+Eventualmente podrian desarrrollarse las `herramientas de control` necesarias para el seguimiento de la implementacion, como un cuestionario y un puntaje para saber que tan agile es la empresa.
+
+## Objetivo
+
+El resultado tiene que ser:
+
+* Facil de entender
+* Ideal de aplicar en el 99% de los casos
+* Agil
+* Iterativo e incremental (???)
+* Tiene que ser funcional tanto a los programadores como a vendedores y gerentes
+* Objetivo (no tiene que dar lugar a dobles interpretaciones)
+* Medible (KPIs claros)
+* Compatible con usos, costumbres y tecnologias de 2026 (Smartworking, IA, globalizacion, burbujas financiarias)
+
 ## List of contents
 
 ### Reuniones

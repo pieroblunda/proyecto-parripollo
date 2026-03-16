@@ -23,7 +23,7 @@ El resultado tiene que ser:
 
 ## List of contents
 
-1. Introduccion - Como cortar un pollo
+1. [Introduccion - Como cortar un pollo](001-prologo.md)
 2. Es estado actual del proceso de desarrollo de software
 3. Escenario actual: SaaS, llave en mano, software factory, mucha diferencia en oferta-demanda de trabajo
 3. Conclusion: Los problemas actuales
@@ -108,18 +108,6 @@ El resultado tiene que ser:
 
 * [Leer](#)
 
-https://en.wikipedia.org/wiki/Customer_lifetime_value
-
-Teoria tricondicional, no sabe, no quiere, no puede
-
-https://www.uv.es/~meliajl/Papers/2007JLM_SBC.pdf
-
-La teoría tricondicional del comportamiento seguro, desarrollada por José Meliá en 2007, postula que para que un trabajador actúe de forma segura debe cumplirse una tríada simultánea: Saber (conocimiento), Poder (capacidad/entorno) y Querer (motivación/actitud). Si alguna de estas condiciones falla, el sistema de seguridad se compromete.
-
-Saber (Conocimiento): El empleado debe poseer el conocimiento teórico y práctico sobre cómo realizar su trabajo de manera segura, conociendo los riesgos asociados.
-Poder (Capacidad y Entorno): Implica que el entorno laboral sea seguro (herramientas, condiciones físicas, iluminación) y que el trabajador posea la aptitud física/mental para realizar la tarea.
-Querer (Motivación): Se refiere a la actitud, voluntad y motivación del trabajador por realizar su labor de forma segura
-
 ## Ideas / Notas
 
 * Orientado a estar lo mas cerca posible del changelog
@@ -156,5 +144,3 @@ No quiere
 No puede
 No sabe
 ## Bibliography
-
-

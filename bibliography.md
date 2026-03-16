@@ -170,6 +170,18 @@ https://thoughtbot.com/blog/break-apart-your-features-into-full-stack-slices
 
 -----
 
+https://en.wikipedia.org/wiki/Customer_lifetime_value
+
+Teoria tricondicional, no sabe, no quiere, no puede
+
+https://www.uv.es/~meliajl/Papers/2007JLM_SBC.pdf
+
+La teoría tricondicional del comportamiento seguro, desarrollada por José Meliá en 2007, postula que para que un trabajador actúe de forma segura debe cumplirse una tríada simultánea: Saber (conocimiento), Poder (capacidad/entorno) y Querer (motivación/actitud). Si alguna de estas condiciones falla, el sistema de seguridad se compromete.
+
+Saber (Conocimiento): El empleado debe poseer el conocimiento teórico y práctico sobre cómo realizar su trabajo de manera segura, conociendo los riesgos asociados.
+Poder (Capacidad y Entorno): Implica que el entorno laboral sea seguro (herramientas, condiciones físicas, iluminación) y que el trabajador posea la aptitud física/mental para realizar la tarea.
+Querer (Motivación): Se refiere a la actitud, voluntad y motivación del trabajador por realizar su labor de forma segura
+
 https://blog.crisp.se/2014/03/11/henrikkniberg/keynote-slides-from-my-passion-for-projects-keynote
 https://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt
 https://blog.crisp.se/2013/07/12/henrikkniberg/the-solution-to-technical-debt

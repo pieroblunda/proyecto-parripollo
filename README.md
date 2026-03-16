@@ -91,3 +91,7 @@ El resultado tiene que ser:
 * [Comunicacion II](#)
 * [Conocimientos debiles sobre Design patterns](#)
 * [Nivelacion de equipos](#)
+
+## Bibliography
+
+* [Leer](#)

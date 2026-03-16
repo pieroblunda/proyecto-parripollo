@@ -2,6 +2,25 @@
 
 Lo que hay que hacer para evitar abrir un parripollo
 
+## Resultado
+
+El resultado de este proyecto seran `un libro` donde explora el proceso y justifica las elecciones; y `una guia de implementacion` que sirve como guia de lectura rapida y consulta de la metodologia.
+
+Eventualmente podrian desarrrollarse las `herramientas de control` necesarias para el seguimiento de la implementacion, como un cuestionario y un puntaje para saber que tan agile es la empresa.
+
+## Objetivo
+
+El resultado tiene que ser:
+
+* Facil de entender
+* Ideal de aplicar en el 99% de los casos
+* Agil
+* Iterativo e incremental (???)
+* Tiene que ser funcional tanto a los programadores como a vendedores y gerentes
+* Objetivo (no tiene que dar lugar a dobles interpretaciones)
+* Medible (KPIs claros)
+* Compatible con usos, costumbres y tecnologias de 2026 (Smartworking, IA, globalizacion, burbujas financiarias)
+
 ## List of contents
 
 1. Introduccion - Como cortar un pollo
@@ -41,6 +60,7 @@ Lo que hay que hacer para evitar abrir un parripollo
 ## Others Skills
 
 * [Sin foco en el usuario](#)
+* [Sensibilidad por los requeriemientos no funcionales](#)
 
 
 ## Comercializacion - ventas
@@ -61,12 +81,13 @@ Lo que hay que hacer para evitar abrir un parripollo
 * [Riesgo: el concepto inexistenet](#)
 
 
-## Carencia de análisis y rigor metodológico
+## Gestion del tiempo
 
 * [Forzar soluciones](#)
 * [Desperdicio de tiempo](#)
 * [Anticiparse a la solucion](#)
-
+* [Interrupcion de tareas](#)
+* [Gestion de prioridades](#)
 
 ## Fragmentación por roles y pérdida de visión sistémica del problema real
 
@@ -83,9 +104,9 @@ Lo que hay que hacer para evitar abrir un parripollo
 * [Conocimientos debiles sobre Design patterns](#)
 * [Nivelacion de equipos](#)
 
-
-
 ## Bibliografia
+
+* [Leer](#)
 
 https://en.wikipedia.org/wiki/Customer_lifetime_value
 
@@ -134,3 +155,6 @@ Tecnicos
 No quiere
 No puede
 No sabe
+## Bibliography
+
+

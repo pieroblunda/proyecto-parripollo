@@ -23,6 +23,16 @@ El resultado tiene que ser:
 
 ## List of contents
 
+1. Introduccion - Como cortar un pollo
+2. Es estado actual del proceso de desarrollo de software
+3. Escenario actual: SaaS, llave en mano, software factory, mucha diferencia en oferta-demanda de trabajo
+3. Conclusion: Los problemas actuales
+4. Como se vende el software? Riesgos
+5. Historia de los intentos de soluciones pasadas: agile, waterfall, lean, UP
+6. Que deberia tener un proximo proceso de software?
+7. Propuesta de valor (presentacion de la nueva metodologia)
+8. Conclusion
+
 ### Reuniones
 
 * [Reuniones excesivamente largas](#)
@@ -94,6 +104,57 @@ El resultado tiene que ser:
 * [Conocimientos debiles sobre Design patterns](#)
 * [Nivelacion de equipos](#)
 
-## Bibliography
+## Bibliografia
 
 * [Leer](#)
+
+https://en.wikipedia.org/wiki/Customer_lifetime_value
+
+Teoria tricondicional, no sabe, no quiere, no puede
+
+https://www.uv.es/~meliajl/Papers/2007JLM_SBC.pdf
+
+La teoría tricondicional del comportamiento seguro, desarrollada por José Meliá en 2007, postula que para que un trabajador actúe de forma segura debe cumplirse una tríada simultánea: Saber (conocimiento), Poder (capacidad/entorno) y Querer (motivación/actitud). Si alguna de estas condiciones falla, el sistema de seguridad se compromete.
+
+Saber (Conocimiento): El empleado debe poseer el conocimiento teórico y práctico sobre cómo realizar su trabajo de manera segura, conociendo los riesgos asociados.
+Poder (Capacidad y Entorno): Implica que el entorno laboral sea seguro (herramientas, condiciones físicas, iluminación) y que el trabajador posea la aptitud física/mental para realizar la tarea.
+Querer (Motivación): Se refiere a la actitud, voluntad y motivación del trabajador por realizar su labor de forma segura
+
+## Ideas / Notas
+
+* Orientado a estar lo mas cerca posible del changelog
+* Changelog first
+* Orientado a metricas
+* Orientado a gestionar el riesgo
+* Eliminar ambiguedades
+* Todos los programadores son full-stack (eliminacion de roles, incluyendo el tester)
+* Fuerte foco en el proceso de ventas y de post venta
+* Eliminar el concepto de "Software factory"
+
+* 6. Que deberia tener un proximo proceso de software? 
+
+Deberia Ser compatible con AI, con la globalizacion, trabajo remoto, mercados internacionales, tecnologias cambiantes
+
+Problemas
+
+## Por nivel gerarquico
+
+* Mandos altos CEO
+* Mandos medios (PM)
+* base operativa (Devs)
+
+## Por  tipo
+
+Humanos
+Procesos
+Recursos (hardware, plata, tiempo, herramientas)
+Tecnicos
+
+## Por teoria tricondicionalida
+
+No quiere
+No puede
+No sabe
+## Bibliography
+
+

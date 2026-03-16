@@ -70,7 +70,7 @@ El resultado tiene que ser:
 * [Riesgo: el concepto inexistenet](#)
 
 
-## Carencia de análisis y rigor metodológico
+## Gestion del tiempo
 
 * [Forzar soluciones](#)
 * [Desperdicio de tiempo](#)

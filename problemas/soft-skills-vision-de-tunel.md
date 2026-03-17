@@ -1,11 +1,5 @@
-* ## Titulo
+# Vision de tunel
 
-Vision de tunel
-
-## Desarrollo
+`Soft skills`
 
 * Vision de tunel de los programadores (como el caballo, que miran nada mas lo de ellos sin tener una vision general)
-
-## Categoria
-
-Soft skills

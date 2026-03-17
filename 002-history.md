@@ -1,20 +1,24 @@
 # History
 
-* **Waterfall** (1956 - Herbert D. Benington - Secuencial)
-* **Toyota Production System** (1970 - Toyota)
-* **Dynamic systems development method** (1994 - Jennifer Stapleton -Iterative)
-* **UP (Unified Process)** - (1999) The Unified Software Development Process (ISBN 0-201-57169-2) and published in 1999 by Ivar Jacobson, Grady Booch and James Rumbaugh.
-* **Agile** (2001) el Manifiesto Ágil, firmado por Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland y Dave Thomas,
-* **disciplined agile delivery framework** (2012 -Scott Ambler and Mark Lines- Agile)
-
-
 ## Waterfall - 1970
 
-También llamado secuencial o ciclo de vida de un programa (denominado así por la posición de las fases en el desarrollo de esta, que parecen caer en cascada “por gravedad” hacia las siguientes fases), es un modelo de desarrollo de software que ordena las etapas del proceso para el desarrollo de software, de tal forma que el inicio de cada etapa debe esperar a la finalización de la etapa anterior. Al final de cada etapa, el modelo está diseñado para llevar a cabo una revisión final, que se encarga de determinar si el proyecto está listo para avanzar a la siguiente fase. Este modelo fue el primero en originarse y es la base de todos los demás modelos de ciclo de vida.
+Para comprender el origen del modelo Waterfall (o en Cascada), debemos viajar a las décadas de 1950 y 1960. En aquel entonces, el software no se consideraba una industria independiente, sino un componente secundario del hardware. El escenario era de una rigidez absoluta, dominado por la ingeniería de sistemas complejos para el sector militar y aeroespacial.
 
-La primera presentación conocida que describe el uso de dichas fases en la ingeniería de software fue realizada por Herbert D. Benington en la conferencia sobre Métodos de Programación Avanzados para Computadoras Digitales el 29 de junio de 1956. Algunos autores atribuyen la autoria a Winston W. Royce en 1970 y posteriormente revisada por Barry Boehm en 1980 e Ian Sommerville en 1985.
+El desarrollo de software nació dentro de organizaciones que ya sabían cómo construir grandes infraestructuras físicas: puentes, barcos y cohetes. Por lo tanto, se aplicó la lógica de la Ingeniería Civil y Mecánica.
 
-El metodo esta basado en fases bien definidas y separadas que agrupan actividades de "requirements analysis, design, construction, testing, deployment, and maintenance.
+En estos sectores, el costo de un error en las fases finales es catastrófico. Si construyes un puente con un acero incorrecto, no puedes "refactorizar" los cimientos una vez que el asfalto está puesto. Por lo tanto, el escenario exigía una planificación exhaustiva y secuencial. Se asumió que el software debía seguir el mismo camino: una fase de diseño perfecta antes de mover un solo gramo de "tierra" (escribir código).
+
+Aunque hoy lo criticamos por su rigidez, en su momento Waterfall fue una respuesta necesaria a una situación de caos total conocida como la "Programación de tipo Cowboy". Los problemas que intentó mitigar fueron:
+
+* La imprevisibilidad del coste y el tiempo: Antes de Waterfall, los programadores escribían código de forma artesanal y desordenada. Era imposible para un gestor saber cuánto faltaba para terminar un proyecto. Waterfall introdujo "hitos" claros que permitían a la gerencia tener una ilusión de control y previsibilidad financiera.
+
+* La fragilidad del hardware: En los años 60, el tiempo de computación era extremadamente caro y limitado. No podías permitirte el lujo de "probar y fallar" (como hacemos hoy con Agile). Había que estar muy seguro de lo que se iba a procesar antes de ocupar las tarjetas perforadas. Waterfall obligaba a pensar todo el problema de antemano para minimizar el uso de hardware costoso.
+
+* La falta de personal especializado: Había muy pocos programadores senior. El modelo Waterfall permitía que un pequeño grupo de "Arquitectos" diseñara todo el sistema, y luego personal menos cualificado se limitara a traducir esos diagramas a código, como obreros en una línea de montaje siguiendo un plano.
+
+La industria (especialmente el Departamento de Defensa de EE.UU. con su estándar DOD-STD-2167A) adoptó solo la parte visual y lineal porque encajaba perfectamente con la mentalidad de gestión de proyectos a destajo y contratos de precio cerrado. Era fácil de auditar, fácil de medir en un gráfico de Gantt y, sobre todo, daba una falsa sensación de seguridad a quienes pagaban por el software.
+
+En resumen, Waterfall no fue un error, sino una transferencia de la lógica de la línea de montaje y la ingeniería civil a un mundo (el software) que aún no entendíamos que funcionaba bajo leyes ontológicas totalmente distintas.
 
 **Principales problemas de waterfall**
 
@@ -83,7 +87,7 @@ Finalmente, la curva de aprendizaje y los costos de implementación son barreras
 
 ## Proceso unificado - 1999
 
-El Proceso Unificado de Desarrollo de Software o simplemente Proceso Unificado es un marco de desarrollo de software que se caracteriza por estar dirigido por casos de uso, centrado en la arquitectura y por ser iterativo e incremental. El refinamiento más conocido y documentado del Proceso Unificado es el Proceso Unificado de Rational (RUP) o simplemente UP.
+El Proceso Unificado de Desarrollo de Software o simplemente Proceso Unificado es un marco de desarrollo de software que se caracteriza por estar dirigido por casos de uso, centrado en la arquitectura y por ser iterativo e incremental.
 
 El primer libro sobre el tema se denominó, en su versión española, El Proceso Unificado de Desarrollo de Software (ISBN 84-7829-036-2) y fue publicado en 1999 por Ivar Jacobson, Grady Booch y James Rumbaugh, conocidos también por ser los desarrolladores del UML, el Lenguaje Unificado de Modelado. 
 
@@ -176,3 +180,13 @@ Software Engineering Economics 1st Edition by Barry W. Boehm (Author) 42 euros. 
 
 
 Una gran diferencia entre las metodologías es el grado en que las fases son secuenciales frente a iterativas. Las metodologías ágiles, como XP y scrum, se centran en procesos ligeros que permiten cambios rápidos.[5] Las metodologías iterativas, como el Proceso Unificado Racional y el método de desarrollo de sistemas dinámicos, se centran en estabilizar el alcance del proyecto y expandir o mejorar iterativamente los productos. Los modelos secuenciales o de gran diseño por adelantado (BDUF), como la cascada, se centran en una planificación completa y correcta para guiar proyectos más grandes y limitar los riesgos a resultados exitosos y predecibles.[6] El desarrollo anamórfico se guía por el alcance del proyecto y las iteraciones adaptativas. En scrum,[7]por ejemplo, se podría decir que una historia de un solo usuario pasa por todas las fases del SDLC dentro de un sprint de dos semanas. Por el contrario, la metodología de cascada, donde todos los requisitos comerciales[Cita requerida] se traduce en descripciones de características/funcionales que luego se implementan típicamente durante un período de meses o más.[Cita requerida]
+
+
+* **Waterfall** (1956 - Herbert D. Benington - Secuencial)
+* **Toyota Production System** (1970 - Toyota)
+* **Dynamic systems development method** (1994 - Jennifer Stapleton -Iterative)
+* **UP (Unified Process)** - (1999) The Unified Software Development Process (ISBN 0-201-57169-2) and published in 1999 by Ivar Jacobson, Grady Booch and James Rumbaugh.
+* **Agile** (2001) el Manifiesto Ágil, firmado por Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland y Dave Thomas,
+* **disciplined agile delivery framework** (2012 -Scott Ambler and Mark Lines- Agile)
+
+[Continuar leyendo](003-contexto-actualmd)

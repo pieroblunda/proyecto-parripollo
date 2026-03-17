@@ -1,11 +1,5 @@
-## Titulo
+## Optmimizacion prematura
+
+`Other Skills`
 
 Optmimizacion prematura
-
-## Desarrollo
-
-Optmimizacion prematura
-
-## Categoria
-
-Lorem

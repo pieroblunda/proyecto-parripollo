@@ -8,6 +8,8 @@ El resultado de este proyecto seran `un libro` donde explora el proceso y justif
 
 Eventualmente podrian desarrrollarse las `herramientas de control` necesarias para el seguimiento de la implementacion, como un cuestionario y un puntaje para saber que tan agile es la empresa.
 
+Un **diccionario** para ir a consultar los problemas que ahora tienen un nombre y los mecanismos de resolucion de esos problemas.
+
 ## Objetivo
 
 El resultado tiene que ser:
@@ -21,104 +23,91 @@ El resultado tiene que ser:
 * Medible (KPIs claros)
 * Compatible con usos, costumbres y tecnologias de 2026 (Smartworking, IA, globalizacion, burbujas financiarias)
 
-## List of contents
+## El libro
 
-1. Introduccion - Como cortar un pollo
-2. Es estado actual del proceso de desarrollo de software
-3. Escenario actual: SaaS, llave en mano, software factory, mucha diferencia en oferta-demanda de trabajo
-3. Conclusion: Los problemas actuales
-4. Como se vende el software? Riesgos
-5. Historia de los intentos de soluciones pasadas: agile, waterfall, lean, UP
-6. Que deberia tener un proximo proceso de software?
-7. Propuesta de valor (presentacion de la nueva metodologia)
-8. Conclusion
+1. [Introduccion - Como cortar un pollo](001-prologo.md)
+2. [Historia de los intentos de soluciones pasadas: agile, waterfall, lean, UP](002-history.md)
+3. [El estado actual del proceso de desarrollo de software](003-contexto-actualmd)
+4. Contexto actual: SaaS, llave en mano, software factory, mucha diferencia en oferta-demanda de trabajo
+5. Conclusion: Los problemas actuales
+6. Como se vende el software? Riesgos
+7. Que deberia tener un proximo proceso de software?
+8. Propuesta de valor (presentacion de la nueva metodologia)
+9. Conclusion
 
 ### Reuniones
 
-* [Reuniones excesivamente largas](#)
-* [Participantes no idoneos para el objetivo de la reunion](#)
-* [Standaup de 105min](#)
-
+* [Reuniones excesivamente largas](problemas/reuniones-reuniones-excesivamente-largas.md)
+* [Participantes no idoneos para el objetivo de la reunion](problemas/reuniones-participan-personas-no-idoneas.md)
+* [Standaup de 105min](problemas/reuniones-standup-de-105min.md)
 
 ### Roles
 
-* [Opiniones irrelevantes de peso](#)
+* [Opiniones irrelevantes de peso](problemas/roles-opiniones-irrelevantes-de-peso.md)
 
 ### Soft Skills
 
-* [Delegar](#)
-* [Empatia y sinergia](#)
-* [Vision de tunel](#)
-* [Fanatismo y  extremismo](#)
-
+* [Delegar](problemas/soft-skills-delegar.md)
+* [Empatia y sinergia](problemas/soft-skills-empatia-y-sinergia.md)
+* [Vision de tunel](problemas/soft-skills-vision-de-tunel.md)
+* [Fanatismo y  extremismo](problemas/soft-skills-fanatismo-y-extremismo.md)
 
 ## Hard Skills
 
-* [Optimizacion prematura](#)
+* [Optimizacion prematura](problemas/hard-skills-optimizacion-prematura.md)
 
 
 ## Others Skills
 
-* [Sin foco en el usuario](#)
-* [Sensibilidad por los requeriemientos no funcionales](#)
+* [Sin foco en el usuario](problemas/other-skills-sin-foco-en-el-usuario.md)
+* [Sensibilidad por los requeriemientos no funcionales](problemas/others-skills-sensibilidad-por-requeriemientos-no-funcionales.md)
 
 
 ## Comercializacion - ventas
 
-* [El fracaso de los proyectos llave en mano](#)
-* [No sabemos vender softare](#)
+* [El fracaso de los proyectos llave en mano](problemas/ventas-el-fracaso-de-los-proyectos-llave-en-mano.md)
+* [No sabemos vender softare](problemas/ventas-no-sabemos-vender-software.md)
 
 
 ## Gestion del cliente
 
-* [Falta de definicion del cliente](#)
-* [Falta de consciencia del cliente](#)
+* [Falta de definicion del cliente](problemas/gestion-del-cliente-definicion.md)
+* [Falta de consciencia del cliente](problemas/gestion-del-cliente-consciencia.md)
 
 
 ## Gestion del riesgo
 
-* [Asignacion de las tareas](#)
-* [Riesgo: el concepto inexistenet](#)
+* [Asignacion de las tareas](problemas/gestion-del-riesgo-asignar-tareas.md)
+* [Riesgo: el concepto inexistente](problemas/gestion-del-riesgo-el-concepto-inexistente.md)
 
 
 ## Gestion del tiempo
 
-* [Forzar soluciones](#)
-* [Desperdicio de tiempo](#)
-* [Anticiparse a la solucion](#)
-* [Interrupcion de tareas](#)
-* [Gestion de prioridades](#)
+* [Asignacion de las tareas](problemas/gestion-del-riesgo-asignar-tareas.md)
+* [Interrupcion de tareas](problemas/gestion-del-tiempo-interrupcion-de-tareas.md)
+* [Gestion de prioridades](problemas/gestion-del-tiempo-prioridades.md)
+* [Forzar soluciones](problemas/rigor-metodologico-desperdicio-de-tiempo.md)
+* [Desperdicio de tiempo](rigor-metodologico-forzar-soluciones.md)
+* [Anticiparse a la solucion](problemas/rigor-metodologico-anticiparse-a-la-solucion.md)
 
 ## Fragmentación por roles y pérdida de visión sistémica del problema real
 
-* [No hay KPI's claros](#)
-* [Metricas dibujadas](#)
-* [Falla en la cadena de produccion](#)
-* [Roles como protagonistas](#)
+* [No hay KPI's claros](problemas/problema-real-indicadores-kpi.md)
+* [Metricas dibujadas](problemas/problema-real-metricas-dibujadas.md)
+* [Falla en la cadena de produccion](problemas/problema-real-falla-en-la-cadena-de-produccion.md)
+* [Roles como protagonistas](problemas/problema-real-roles-como-protagonistas.md)
 
 
 ## Otros
 
-* [Comunicacion I](#)
-* [Comunicacion II](#)
-* [Conocimientos debiles sobre Design patterns](#)
-* [Nivelacion de equipos](#)
+* [Comunicacion I](problemas/otros-comunicacion.md)
+* [Comunicacion II](problemas/otros-comunicacion-2.md)
+* [Nivelacion de equipos](problemas/otros-nivelacion-de-equipos.md)
+* [Conocimientos debiles sobre Design patterns](problemas/otros-conocimientos-debiles-sobre-design-patterns.md)
 
 ## Bibliografia
 
-* [Leer](#)
-
-https://en.wikipedia.org/wiki/Customer_lifetime_value
-
-Teoria tricondicional, no sabe, no quiere, no puede
-
-https://www.uv.es/~meliajl/Papers/2007JLM_SBC.pdf
-
-La teoría tricondicional del comportamiento seguro, desarrollada por José Meliá en 2007, postula que para que un trabajador actúe de forma segura debe cumplirse una tríada simultánea: Saber (conocimiento), Poder (capacidad/entorno) y Querer (motivación/actitud). Si alguna de estas condiciones falla, el sistema de seguridad se compromete.
-
-Saber (Conocimiento): El empleado debe poseer el conocimiento teórico y práctico sobre cómo realizar su trabajo de manera segura, conociendo los riesgos asociados.
-Poder (Capacidad y Entorno): Implica que el entorno laboral sea seguro (herramientas, condiciones físicas, iluminación) y que el trabajador posea la aptitud física/mental para realizar la tarea.
-Querer (Motivación): Se refiere a la actitud, voluntad y motivación del trabajador por realizar su labor de forma segura
+* [Leer](bibliography.md)
 
 ## Ideas / Notas
 
@@ -127,9 +116,11 @@ Querer (Motivación): Se refiere a la actitud, voluntad y motivación del trabaj
 * Orientado a metricas
 * Orientado a gestionar el riesgo
 * Eliminar ambiguedades
+* El enfoque al inicio del proyecto no es lo mismo que al final
 * Todos los programadores son full-stack (eliminacion de roles, incluyendo el tester)
 * Fuerte foco en el proceso de ventas y de post venta
 * Eliminar el concepto de "Software factory"
+* Erradicar los manuales de uso
 
 * 6. Que deberia tener un proximo proceso de software? 
 
@@ -155,6 +146,3 @@ Tecnicos
 No quiere
 No puede
 No sabe
-## Bibliography
-
-

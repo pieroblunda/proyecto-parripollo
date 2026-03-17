@@ -29,3 +29,5 @@ En el desarrollo de software, el programador que "solo tiene un martillo" actúa
 Al igual que las astillas de hueso en el pollo, esta sobre-ingeniería deja "astillas" en el código: dependencias innecesarias, latencias absurdas y una complejidad que hará que cualquier cambio futuro sea doloroso. El programador siente que está avanzando porque está haciendo mucho ruido y usando herramientas potentes, pero en realidad está entorpeciendo el flujo de trabajo. Un experto, tanto en la cocina como en la terminal, sabe que la elegancia no está en la fuerza del impacto, sino en encontrar el punto exacto donde la solución se desliza sin resistencia. Al final, el código más limpio es aquel que respeta la forma natural del problema, separando las responsabilidades por sus uniones lógicas, no cortándolas por donde el programador cree que debería pasar su "hacha".
 
 > Idea para monetizar. Hacer un codigo QR a un video de youtube de como cortar un pollo
+
+[Continuar leyendo](002-history.md)

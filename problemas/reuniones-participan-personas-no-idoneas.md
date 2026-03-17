@@ -1,11 +1,5 @@
-## Titulo
+## Participantes no idoneos para el objetivo de la reunion
 
-Participantes no idoneos para el objetivo de la reunion
-
-## Desarrollo
+`Reuniones`
 
 * Reuniones: participan personas que no deberian participar
-
-## Categoria
-
-Reuniones

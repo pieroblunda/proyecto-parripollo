@@ -1,11 +1,5 @@
-## Titulo
+## Opiniones irrelevantes de peso
 
-Opiniones irrelevantes de peso
-
-## Desarrollo
+`Roles`
 
 * Hay opiniones de parsonas que no tienen el peso/contexto/background para hacerlo.
-
-## Categoria
-
-Roles

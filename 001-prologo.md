@@ -30,4 +30,4 @@
 
 ![](https://img.shields.io/badge/nota-BORRAR-EA4335) __> Idea para monetizar. Hacer un codigo QR a un video de youtube de como cortar un pollo__
 
-[Continuar leyendo](002-history.md)
+[Continuar leyendo](002-contexto-actual.md)

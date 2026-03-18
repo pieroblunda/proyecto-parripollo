@@ -26,8 +26,8 @@ El resultado tiene que ser:
 ## El libro
 
 1. [Introduccion - Como cortar un pollo](001-prologo.md)
-3. [El escenario actual](002-contexto-actualmd)
-2. [Historia de los intentos de soluciones pasadas: agile, waterfall, lean, UP](002-history.md)
+3. [El escenario actual](002-contexto-actual.md)
+2. Historia de los intentos de soluciones pasadas: agile, waterfall, lean, UP
 4. Contexto actual: SaaS, llave en mano, software factory, mucha diferencia en oferta-demanda de trabajo
 5. Conclusion: Los problemas actuales
 6. Como se vende el software? Riesgos
@@ -35,13 +35,13 @@ El resultado tiene que ser:
 8. Propuesta de valor (presentacion de la nueva metodologia)
 9. Conclusion
 
+**Apendice A: Bibliografia**
+
+* [Leer](bibliography.md)
+
 ## Problemas
 
 * [Ver indice](./problemas/index.md)
-
-## Bibliografia
-
-* [Leer](bibliography.md)
 
 ## Ideas / Notas
 

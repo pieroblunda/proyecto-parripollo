@@ -85,7 +85,8 @@ Problemas
 
 á, é, í, ó, ú, ü, ñ, Ñ, ¿, ¡
 
-* [](https://img.shields.io/badge/nota-BORRAR-EA4335)
-* [Parrafo aprovado](https://img.shields.io/badge/Pass-✔-green) 
-* [Escritor por humano](https://img.shields.io/badge/writer-humano-orange)
-* [Escritor por ia](https://img.shields.io/badge/writer-ia-orange)
+
+* ![](https://img.shields.io/badge/nota-BORRAR-EA4335)
+* ![Parrafo aprovado](https://img.shields.io/badge/Pass-✔-green) 
+* ![Escritor por humano](https://img.shields.io/badge/writer-humano-orange)
+* ![Escritor por ia](https://img.shields.io/badge/writer-ia-orange)

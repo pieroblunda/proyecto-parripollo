@@ -9,6 +9,7 @@
 * [Tips for Agile product roadmaps & product roadmap examples](https://www.scrum.org/resources/blog/tips-agile-product-roadmaps-product-roadmap-examples)
 * [scrum 19 sprint planning anti patterns](https://productcoalition.com/scrum-19-sprint-planning-anti-patterns-caabc44429b3)
 * https://www.tutor2u.net/economics/reference/availability-heuristic-or-availability-bias
+* [The Nature of Software Development](https://www.amazon.it/dp/1941222374)
 
 ## Lecturas obligatorias
 
@@ -20,14 +21,13 @@
 * [Ley de Tesler](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
 * [The Humanizing Work Guide to Splitting User Stories](https://agileforall.com/vertical-slices-and-scale/)
 * [Wikipedia - Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
-* * [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
+* [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 * [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
 * [The Agile Manifesto — Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto)
 * [Official Scrum guide](http://Official%20Scrum%20guide)
 * [Diminishing returns - Wikipedia](https://en.wikipedia.org/wiki/Diminishing_returns)
 * 7 habits of the hight effective people (By Stephen R. Covey)
 * [Fourth agile principle](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
-* [Krzysztof Liszewski](https://www.linkedin.com/in/krzysztof-liszewski/)
 * [Lean software development](https://it.wikipedia.org/wiki/Lean_software_development)
 * Lean Startup
 * [Scrum glossary](https://www.scrum.org/resources/scrum-glossary)
@@ -35,6 +35,8 @@
 * * [Henrik Kniberg se ha procunciado al respecto de Agile en su blog](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * https://en.wikipedia.org/wiki/Project_management_triangle
 * https://rapidbi.com/time-quality-cost-you-can-have-any-two/
+* [Stackoverflow - Can developer productivity be measured?](https://stackoverflow.blog/2020/12/07/measuring-developer-productivity/)
+* https://www.bloomberglinea.com/latinoamerica/argentina/la-respuesta-de-martin-migoya-a-la-posibilidad-de-recomprar-mas-acciones-de-globant-en-2026/
 
 ## Conceptos
 
@@ -66,11 +68,11 @@
 * [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Agile principles](https://agilemanifesto.org/principles.html)
 * [Software velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
+* [Scrum](https://it.wikipedia.org/wiki/Scrum_(informatica)).
 * https://en.wikipedia.org/wiki/CSS_box_model
 * https://it.wikipedia.org/wiki/Metodo_MoSCoW
 * https://en.wikipedia.org/wiki/Agile_software_development
 * https://en.wikipedia.org/wiki/Code_review
-* [Scrum](https://it.wikipedia.org/wiki/Scrum_(informatica)).
 * https://agilemanifesto.org/iso/it/manifesto.html
 * https://it.wikipedia.org/wiki/Metodologia_agile
 * https://en.wikipedia.org/wiki/Test_fixture#Software
@@ -85,7 +87,6 @@
 * [67% of workers say spending too much time in meetings distracts them from doing their job](https://www.cnbc.com/2019/11/17/67percent-of-workers-say-spending-too-much-time-in-meetings-distracts-them.html)
 * [How Much Time Are You Wasting on Useless Meetings?](https://medium.com/marketing-and-entrepreneurship/how-much-time-are-you-wasting-on-useless-meetings-a316fab475bc)
 * [Atlassian - Time wasting at work infographic](https://www.atlassian.com/time-wasting-at-work-infographic)
-* [Stackoverflow - Can developer productivity be measured?](https://stackoverflow.blog/2020/12/07/measuring-developer-productivity/)
 * [Microsoft showed us in Japan](https://www.forbes.com/sites/lisettevoytko/2019/11/04/what-microsoft-japans-successful-4-day-week-suggests-about-work-life-balance/)
 * https://www.blissfully.com/saas-trends/q3-2017-saas-explosion-creates-saas-chaos/
 * https://www.denis-oakley.com/saas-pricing-tactics-business/
